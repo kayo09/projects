@@ -95,7 +95,7 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [LICENSE](https://github.com/kayo09/projects/blob/main/LICENSE).
 
 ---
 
